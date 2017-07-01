@@ -1,0 +1,8 @@
+.env
+.idea
+old/
+_node_modules/
+node_modules/
+knexfile.js
+npm-debug.log*
+TODO
