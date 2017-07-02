@@ -17,6 +17,7 @@
   "license": "ISC",
   "homepage": "https://github.com/carlok/hapi-books",
   "dependencies": {
+    "bcrypt": "1.0.2",
     "blipp": "2.3.0",
     "boom": "5.1.0",
     "dotenv": "4.0.0",

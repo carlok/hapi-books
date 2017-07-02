@@ -6,7 +6,8 @@ exports.seed = function seed(knex, Promise) {
     {
       name: 'Carlo Perassi',
       username: 'muser',
-      password: 'mpwd',
+      // password
+      password: '$2a$10$BBKVqfDpiYzfRYUK0sVmOePz9ntg8AkItGOqW1xZARxmG2evYXy82',
       email: 'carlo.perassi@aaa.it'
     }
   ];
